@@ -15,3 +15,9 @@ Ensure you have a C++ compiler installed:
 2. Navigate to the folder containing your `.cpp` file:
    ```cmd
    cd path\to\your\file
+#### compile:
+g++ -o program_name file_name.cpp
+## run :
+program_name
+
+

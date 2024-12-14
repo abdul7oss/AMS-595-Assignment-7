@@ -16,8 +16,11 @@ Ensure you have a C++ compiler installed:
    ```cmd
    cd path\to\your\file
 #### compile:
-g++ -o program_name file_name.cpp
+   ```cmd
+   g++ -o program_name file_name.cpp
+```
 ## run :
+   ```cmd
 program_name
-
+```
 

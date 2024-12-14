@@ -24,3 +24,31 @@ Ensure you have a C++ compiler installed:
 program_name
 ```
 
+#### Linux
+Open a terminal.
+Navigate to the folder containing your .cpp file:
+``` cmd
+cd /path/to/your/file
+```
+Compile the program using g++:
+```cmd
+g++ -o program_name file_name.cpp
+```
+Run the program:
+```cmd
+./program_name
+```
+#### Mac
+Open the Terminal.
+Navigate to the folder containing your .cpp file:
+```cmd
+cd /path/to/your/file
+```
+Compile the program using g++ (installed via Xcode tools):
+
+
+``` cmd g++ -o program_name file_name.cpp ```
+Run the program:
+``` cmd ./program_name ```
+
+
